@@ -1,0 +1,1 @@
+import{_ as s,v as t,x as o,t as a}from"./7U8KMTUy.js";const n={data(){return{}}},l={class:"flex flex-col w-full h-full p-8"};function r(c,e,f,p,d,_){return a(),t("div",l,e[0]||(e[0]=[o("span",null,"Sales",-1)]))}const i=s(n,[["render",r]]);export{i as default};

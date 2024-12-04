@@ -1,0 +1,1 @@
+import{_ as s,v as o,x as n,t as r}from"./7U8KMTUy.js";const a={mounted(){}},c={class:"flex flex-col h-screen w-screen items-center justify-center"};function i(t,e,d,p,l,u){return r(),o("div",c,[n("button",{onClick:e[0]||(e[0]=f=>t.$router.push("/main/")),class:"px-6 p-3 rounded bg-primary-500 text-white"},"Go to Dashboard")])}const x=s(a,[["render",i]]);export{x as default};
